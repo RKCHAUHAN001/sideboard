@@ -2,7 +2,7 @@
 
 **sideboard** is a powerful, responsive whiteboard extension for Visual Studio Code designed to help developers visually construct and explain code logic. Whether you're teaching a friend, onboarding a teammate, or mapping out a complex algorithm, **sideboard** provides a dedicated space right next to your code.
 
-![SideBoard Banner](https://raw.githubusercontent.com/yourusername/sideboard/main/images/banner.png)
+![SideBoard Banner](https://github.com/RKCHAUHAN001/sideboard/blob/main/download.gif?raw=true)
 
 ## 🚀 Why sideboard?
 
