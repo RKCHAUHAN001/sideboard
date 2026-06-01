@@ -1,0 +1,62 @@
+{
+  "name": "sideboard",
+  "displayName": "SideBoard",
+  "description": "A whiteboard(side pannel) for explaining code logic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "publisher": "Parivartya",
+  "author": {
+    "name": "Parivartya Corporation",
+    "email": "parivartyacorporation@gmail.com",
+    "url": "https://parivartya.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RKCHAUHAN001/terminal-tune.git"
+  },
+  "categories": [
+    "Other"
+  ],
+  "keywords": [
+    "SideBoard",
+    "WhiteBoard",
+    "Parivartya",
+    "ContextCanvas",
+    "Side Pannel"
+    
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "sideboard.openWhiteboard",
+        "title": "SideBoard: Open Whiteboard",
+        "category": "SideBoard"
+      }
+    ],
+    "menus": {
+      "editor/title": [
+        {
+          "command": "sideboard.openWhiteboard",
+          "group": "navigation"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.120.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "22.x",
+    "eslint": "^9.39.3",
+    "@vscode/test-cli": "^0.0.12",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
