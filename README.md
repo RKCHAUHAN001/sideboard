@@ -53,4 +53,13 @@ Suggestions and contributions are welcome! If you find a bug or have a feature r
 
 ---
 
+### Connect with me
+=====================
+- **LinkedIn**: [Rakesh Chauhan](https://www.linkedin.com/company/parivartya/?viewAsMember=true) - Professional updates
+- **Instagram**: [mr.rkchauhan](https://www.instagram.com/mr.rkchauhan/) - Follow and Contact us.
+- **YouTube**: [Parivartya Programming](https://www.youtube.com/channel/UCj7XiHMAQPYD0o7_X0tjy_A) - Video tutorials
+- **Website**: [Parivartya Corporation](https://parivartya.in) - Also visit the site
+
+
+
 **Happy Coding (and Explaining)!** 🚀
